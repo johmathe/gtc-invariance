@@ -9,9 +9,9 @@ logger_config = Config(
     {
         "type": WBLogger,
         "params": {
-            "project": "YOUR PROJECT",
-            "data_project": "YOUR DATA PROJECT",
-            "entity": "YOUR ENTITY",
+            "project": "octahedral",
+            "data_project": "gtc-invariance-scripts",
+            "entity": "johmathe",
             "log_interval": 1,
             "watch_interval": 1,
             "plot_interval": 1,
